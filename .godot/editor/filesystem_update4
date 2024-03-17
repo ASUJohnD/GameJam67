@@ -1,0 +1,11 @@
+res://Scenes/10_Main.tscn
+res://Scenes/main.tscn
+res://Scenes/mainmenu.tscn
+res://Scenes/Scripts/AudioMenu.cs
+res://Scenes/Scripts/MainMenu.cs
+res://Scenes/Scripts/SaveLoadDeleteMenu.cs
+res://Scenes/VideoMenu.cs
+res://Scripts/GameMaster.cs
+res://Scripts/SceneManager.cs
+res://Scenes/AudioMenu_PFB.tscn
+res://Scenes/VideoMenu_PFB.tscn
